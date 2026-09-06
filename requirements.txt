@@ -1,5 +1,7 @@
 streamlit
-python-dotenv
 requests
+python-dotenv
 langchain-openrouter
 langchain-core
+faster-whisper
+edge-tts
